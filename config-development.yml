@@ -1,2 +1,2 @@
-user:
-  role: Developer
+app:
+  test: "hola pollo developer"

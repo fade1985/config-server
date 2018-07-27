@@ -1,2 +1,2 @@
-user:
-  role: User
+app:
+  test: "hola pollo producción"

@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: ssh://localhost/config-repo
+          uri: https://github.com/fade1985/config-server
           clone-on-start: true
 security:
   user:
